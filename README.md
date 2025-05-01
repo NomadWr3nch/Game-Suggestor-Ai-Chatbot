@@ -47,3 +47,4 @@ MIT License
 ## 🙋‍♂️ Authors
 - Gautam Girish [@NomadWr3nch](https://github.com/NomadWr3nch)
 - Akshaj S [@akshajsun](https://github.com/akshajsun)
+- Yadunandan P [@yadunandan04](https://github.com/yadunandan04)
